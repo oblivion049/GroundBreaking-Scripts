@@ -1,0 +1,12 @@
+name = "破土而出系列";
+picture = "functions_f_BGS\Icon\BGS_picture.paa";
+logoSmall = "functions_f_BGS\Icon\BGS_logoSmall.paa";
+logoOver = "functions_f_BGS\Icon\BGS_logoOver.paa";
+logo = "functions_f_BGS\Icon\BGS_logo.paa";
+actionName = "";
+overview = "$STR_BGS_description_Mod";
+tooltip = "$STR_BGS_description_name";
+action = "";
+author = "Qin9 and FuSheng";
+hideName = 0;
+hidePicture = 0;
