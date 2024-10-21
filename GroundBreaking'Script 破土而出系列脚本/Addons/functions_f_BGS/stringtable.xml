@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><Project name="Arma3">
+  <Package name="Language_BTTS">
+	<Container name="Description">
+	  <Key ID="STR_bgs_description_name">
+		<Original>Break Through The Soil Series</Original>
+		<English>Break Through The Soil Series</English>
+		<Chinese>破土而出系列</Chinese>
+		<Chinesesimp>破土而出系列</Chinesesimp>
+	  </Key>
+	  <Key ID="STR_bgs_description_Mod">
+		<Original>This is the third installment of the "GroundBreaking" mission series: White Door. These features are part of the mission, and more gameplay features will be updated as the mission is officially released.You can view more information in the creative workshop or link.</Original>
+		<Chinese>這是破土而出系列任務的第三代：白門“White Door”。 這些功能來自於任務的一部分，隨著任務最終發佈，將更新更多的遊戲功能。您可以在創意工坊或者連接中查看更多資訊。</Chinese>
+		<Chinesesimp>这是破土而出系列任务的第三代：白门“White Door”。这些功能来自于任务的一部分，随着任务最终发布，将更新更多的游戏功能。您可以在创意工坊或者连接中查看更多信息。</Chinesesimp>
+	  </Key>
+	  <Key ID="STR_bgs_param_Description_0">
+		<Original>Designed by %1</Original>
+		<English>Designed by %1</English>
+		<Chinese>由%1設計</Chinese>
+		<Chinesesimp>由%1设计</Chinesesimp>
+	  </Key>
+	  <Key ID="STR_bgs_description_Producer1">
+		<Original>Qin_9</Original>
+		<English>Qin_9</English>
+		<Chinese>秦玖</Chinese>
+		<Chinesesimp>秦玖</Chinesesimp>
+	  </Key>
+	  <Key ID="STR_bgs_description_Producer2">
+		<Original>Fusheng Xiejin</Original>
+		<English>Fusheng Xiejin</English>
+		<Chinese>浮生歇盡</Chinese>
+		<Chinesesimp>浮生歇尽</Chinesesimp>
+	  </Key>
+	  <Key ID="STR_bgs_description_Producer2_1">
+		<Original>Qin9 and FushengXiejin</Original>
+		<English>Qin9 and FushengXiejin</English>
+		<Chinese>秦玖與浮生歇盡</Chinese>
+		<Chinesesimp>秦玖与浮生歇尽</Chinesesimp>
+	  </Key>
+	</Container>
+  </Package>
+</Project>
